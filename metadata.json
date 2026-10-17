@@ -1,0 +1,6 @@
+{
+  "name": "Aether Hi-Res Studio",
+  "description": "Lossless audio playback and format ingestion workstation powered by the Hyper-Pepino DSP chip simulator for bit-perfect high-resolution audio processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
